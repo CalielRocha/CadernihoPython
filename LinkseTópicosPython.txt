@@ -1,0 +1,34 @@
+Formatação de texto Python:
+https://docs.python.org/3/library/string.html#formatexamples
+
+Python builtsin:
+https://docs.python.org/3/library/functions.html
+
+PEP.
+
+Python string methods:
+https://www.w3schools.com/python/python_ref_string.asp
+
+List Comprehensions.
+
+instrução match:
+https://docs.python.org/pt-br/3/tutorial/controlflow.html#match-statements
+
+Ternário
+
+Métodos especiais.
+
+Método construtor.
+
+Método da classe.
+
+instanciar objetos.
+
+Ordem de precedência
+   1. Parênteses ()
+   2. Potenciação **
+   3. Negativo unário -x, +x
+   4. Multiplicação *, Divisão /, Divisão inteira //, Resto %
+   5. Adição +, Subtração -
+   6. Operadores de comparação (<, <=, >, >=, ==, !=)
+   7. Operadores lógicos (and, or, not)
